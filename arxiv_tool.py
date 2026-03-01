@@ -70,7 +70,7 @@ def parse_arxiv_xml(xml_content:str)->dict:
 from langchain_core.tools import tool
 
 @tool
-def arxiv_search(topic: str) -> list[dict]:
+def arxiv_search(topic: str) -> list[dict]: 
     """Search for recently uploaded arXiv papers
 
     Args:
