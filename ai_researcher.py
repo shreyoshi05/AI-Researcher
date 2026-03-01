@@ -38,6 +38,7 @@ def call_model(state: State):
     return {"messages": [response]}
 
 
+
 def should_continue(state: State) -> Literal["tools", "__end__"]:
     messages = state["messages"]
     last_message = messages[-1]
