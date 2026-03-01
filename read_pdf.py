@@ -4,7 +4,7 @@ import PyPDF2
 import requests
 
 @tool
-def read_pdf(url:str)->str:
+def read_pdf(url:str)->str:  
     """ Read and extract text from a PDF file given its URL.
     Args:
         url: The URL of the pdf file to read
