@@ -18,7 +18,7 @@ arxiv
 # PDF reading & writing
 pypdf
 pdfplumber
-reportlab
+reportlab  
 
 # Web & tools
 requests
