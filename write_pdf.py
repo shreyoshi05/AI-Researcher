@@ -6,7 +6,7 @@ import shutil
 
 @tool
 def render_latex_pdf(latex_content:str)->str:
-     """Render a LaTeX document to PDF.
+     """Render a LaTeX document to PDF.  
 
     Args:
         latex_content: The LaTeX document content as a string
