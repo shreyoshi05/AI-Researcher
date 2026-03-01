@@ -1,0 +1,34 @@
+# Core LLM + LangGraph
+langchain
+langgraph
+langchain-community
+langchain-core
+
+# LLM Providers (choose what you use)
+openai
+tiktoken
+
+# If using Ollama (local models)
+ollama
+langchain-ollama
+
+# arXiv research
+arxiv
+
+# PDF reading & writing
+pypdf
+pdfplumber
+reportlab
+
+# Web & tools
+requests
+beautifulsoup4
+python-dotenv
+
+# Streamlit frontend
+streamlit
+
+# Optional but useful
+faiss-cpu
+chromadb
+lxml
